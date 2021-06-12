@@ -1,0 +1,11 @@
+// Valve Game Info file
+//  These are key/value pairs.  Certain mods will use different settings.
+//
+game "Joompy"
+startmap "joomp"
+trainingmap ""
+hlversion "1000"
+mpentity "info_player_deathmatch"
+//type multiplayer_only
+nomodels 0
+nohimodel 0
